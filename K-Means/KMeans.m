@@ -14,7 +14,7 @@ img_size = size(A);
 % This gives us our dataset matrix X that we will use K-Means on.
 X = reshape(A, img_size(1) * img_size(2), 3); 
 % 簇的个数，以及最大迭代次数
-K = 5; 
+K = 6; 
 max_iters = 15;
 
 % 初始化中心点

@@ -8,10 +8,12 @@
 ## 聚类算法
 
 - 基于划分 (K-means)
-- 基于密度 (DBScan, DENCLU)
+- 基于密度 (DBScan, DENCLU, OPTICS)
 - 基于层次 (Agglomerative-Clustering)
 - 基于网格 (CliQue)
 - 基于模型 (GMM)
+- Mean-shift、谱聚类
+- Clustering by fast search and find of density peaks.
 
 --- ---
 

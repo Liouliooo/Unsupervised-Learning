@@ -1,5 +1,10 @@
 # 非监督学习
 
+### 半监督学习（semi-supervised learning)
+- Cop-Kmeans
+
+##
+
 ### 聚类算法
 
 - 基于划分
